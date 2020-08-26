@@ -1,0 +1,86 @@
+body {
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+    background-color: #EAF6F6;
+}
+
+h1 {
+    font-family: 'Monsieur La Doulaise', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Monsieur La Doulaise', cursive;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: 'Monsieur La Doulaise', cursive;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+hr {
+    border-width: 5px 0 0 0;
+    border-style: dotted;
+    width: 10%;
+    padding: 10px;
+    color: grey;
+}
+.intro {
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+}
+
+.top-container {
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+    height: 800px;
+}
+
+.middle-container {
+    text-align: center;
+}
+
+.bottom-container {
+    text-align: center;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    margin-bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 100px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 4;
+}
+
+.coding-skill {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.cricket-skill {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
