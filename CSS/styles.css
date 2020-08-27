@@ -15,6 +15,7 @@ h1 {
 h2 {
     font-family: 'Monsieur La Doulaise', cursive;
     color: #66BFBF;
+    font-size: 30px;
 }
 
 h3 {
@@ -52,6 +53,7 @@ hr {
 
 .bottom-container {
     text-align: center;
+    padding: 20px;
 }
 
 .bottom-cloud {
@@ -64,6 +66,10 @@ hr {
     position: absolute;
     right: 300px;
     top: 100px;
+}
+
+.user-img {
+    height: 400px;
 }
 
 .skill-row {
@@ -83,4 +89,32 @@ hr {
     width: 25%;
     float: right;
     margin-right: 30px;
+}
+
+.contact-me {
+    padding: 20px;
+    padding-bottom: 40px;
+}
+
+.btn {
+    background-color: #11999E;
+    color: white;
+    padding: 10px 20px 10px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    height: 100px;
+}
+
+.footer-link {
+    text-decoration: none;
+    padding: 10px;
+}
+
+.copy-right {
+    color: white;
+    padding-top: 20px;
 }
